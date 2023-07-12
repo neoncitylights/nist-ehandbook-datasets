@@ -1,5 +1,7 @@
 # nist-ehandbook-datasets
 
+[![Static Badge](https://img.shields.io/badge/doi-10.18434%2FM32189-blue?label=doi&color=blue)](https://doi.org/10.18434/M32189)
+
 This repository is a simple mirror of the datasets referenced from **NIST/SEMATECH e-Handbook of Statistical Methods**[^nist-datasets]. Every file is in the `.DAT` file format, and specifically formatted for the Dataplot software also created by NIST.[^dataplot-file-format]
 
 For licensing information concerning the datasets, please read NIST's policy[^nist-license] for more information.
