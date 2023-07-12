@@ -4,7 +4,7 @@
 
 This repository is a simple mirror of the datasets referenced from **NIST/SEMATECH e-Handbook of Statistical Methods**[^nist-datasets]. Every file is in the `.DAT` file format, and specifically formatted for the Dataplot software also created by NIST.[^dataplot-file-format]
 
-For licensing information concerning the datasets, please read NIST's policy[^nist-license] for more information.
+For licensing information concerning the datasets, please read NIST's policy[^nist-license].
 
 [^dataplot-file-format]: Heckert, A. (2001, June 5). Dataplot frequently asked questions (FAQS). NIST Electrical Engineering Division. <https://www.itl.nist.gov/div898/software/dataplot/faqs.htm#datafaq2>
 [^nist-datasets]: NIST/SEMATECH e-Handbook of Statistical Methods, <https://www.itl.nist.gov/div898/handbook/datasets.htm>, July 11, 2023.
